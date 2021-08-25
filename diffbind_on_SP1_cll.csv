@@ -1,0 +1,13 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bamReads,Peaks,PeakCaller
+3259MIA,CLL_3259,SP1,MIA,Full media,1,./3259_MIA1_chrsorted.bam,./MIA_3259_peaks.bed,bed
+3378MIA,CLL_3378,SP1,MIA,Full media,1,./3378_MIA1_chrsorted.bam,./MIA_3378_peaks.bed,bed
+3381MIA,CLL_3381,SP1,MIA,Full media,1,./3381_MIA1_chrsorted.bam,./MIA_3381_peaks.bed,bed
+3424MIA,CLL_3424,SP1,MIA,Full media,1,./3424_MIA1_chrsorted.bam,./MIA_3424_peaks.bed,bed
+3511MIA,CLL_3511,SP1,MIA,Full media,1,./3511_MIA1_chrsorted.bam,./MIA_3511_peaks.bed,bed
+3512MIA,CLL_3512,SP1,MIA,Full media,1,./3512_MIA1_chrsorted.bam,./MIA_3512_peaks.bed,bed
+3259UT,CLL_3259,SP1,UT,Full media,1,./3259_UT1_chrsorted.bam,./UT_3259_peaks.bed,bed
+3378UT,CLL_3378,SP1,UT,Full media,1,./3378_UT1_chrsorted.bam,./UT_3378_peaks.bed,bed
+3381UT,CLL_3381,SP1,UT,Full media,1,./3381_UT1_chrsorted.bam,./UT_3381_peaks.bed,bed
+3424UT,CLL_3424,SP1,UT,Full media,1,./3424_UT1_chrsorted.bam,./UT_3424_peaks.bed,bed
+3511UT,CLL_3511,SP1,UT,Full media,1,./3511_UT1_chrsorted.bam,./UT_3511_peaks.bed,bed
+3512UT,CLL_3512,SP1,UT,Full media,1,./3512_UT1_chrsorted.bam,./UT_3512_peaks.bed,bed
